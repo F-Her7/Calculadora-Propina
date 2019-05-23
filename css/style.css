@@ -1,0 +1,57 @@
+html{
+  font-family: 'Righteous', cursive;
+  background-color: black;
+}
+
+#totalcuenta{
+  width: 19%;
+  height: 20%;
+  text-align: center;
+}
+
+#clientes{
+  width: 12%;
+}
+
+#container{
+  height: 525px;
+  width: 360px;
+  margin: 100px auto;
+  background: white;
+  box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
+  border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+}
+h1{
+  font-size: 28px;
+  text-align: center;
+  background-color: gray;
+  height: 50px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  color: white;
+}
+h2{
+  font-size: 22px;
+  text-align: center;
+
+}
+
+h3{
+  font-size: 18px;
+  text-align: center;
+
+}
+
+h4{
+  font-size: 18px;
+
+}
+form{
+  text-align: center;
+}
+div.Propinas{
+  text-align: center;
+
+}
